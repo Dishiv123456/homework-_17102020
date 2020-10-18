@@ -27,7 +27,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestChallange">
     <configuration name="ByteIntShortLong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datatype.ByteIntShortLong" />
       <module name="javalearning" />
@@ -41,8 +41,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodExample" />
+      <module name="javalearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestChallange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatype.TestChallange" />
+      <module name="javalearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datatype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestChallange" />
+        <item itemvalue="Application.MethodExample" />
         <item itemvalue="Application.ByteIntShortLong" />
       </list>
     </recent_temporary>
@@ -77,22 +99,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1602873364734" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1602934881557">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1603018876265">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602934881557" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1602934881557">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603018876265" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1603018876265">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602934881557" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1602934881557">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603018876265" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1603018876265">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602934881557" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1602934881557">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603018876265" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1603018876265">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602934881557" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603018876265" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1602929696217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
