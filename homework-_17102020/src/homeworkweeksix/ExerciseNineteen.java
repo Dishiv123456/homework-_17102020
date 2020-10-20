@@ -9,7 +9,7 @@ public class ExerciseNineteen {
 
     public static void main(String[] args) { //main method
         stringToLowerCase();
-    }
+    } //mail method
 
     public static void stringToLowerCase() { //static method
         ExerciseNineteen abc = new ExerciseNineteen(); //object created

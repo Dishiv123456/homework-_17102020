@@ -7,14 +7,14 @@ public class ExerciseFifteen {
     static int b = 20;
     static int c;
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {   //main method
 
-        ExerciseFifteen ft = new ExerciseFifteen();
+        ExerciseFifteen ft = new ExerciseFifteen();  //object created
         ft.swapToVariables();
 
     }
 
-    public void swapToVariables() {
+    public void swapToVariables() {  //instance method
         System.out.println("Before swap a = " + a + "  and b =" + b);
         c = a + b;
         b = b - a;

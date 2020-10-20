@@ -4,13 +4,13 @@ package homeworkweeksix;
 import java.util.Scanner;
 
 public class ExerciseEight {
-    public static void main(String[] args) {
-        ExerciseEight e = new ExerciseEight();
+    public static void main(String[] args) {  //main method
+        ExerciseEight e = new ExerciseEight();  //object created
         e.areaOfTriangle();
 
     }
 
-    public void areaOfTriangle() {
+    public void areaOfTriangle() {  //instance method
         Scanner s = new Scanner(System.in); //Scanner
         System.out.println("Enter width of the triangle : ");
         int width = s.nextInt();

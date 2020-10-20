@@ -17,11 +17,11 @@ public class ExerciseTwenty {
 "|                        |"
 "+------------------------+"   */
 
-    public static void main(String[] args) {
-        ExerciseTwenty tw = new ExerciseTwenty();
+    public static void main(String[] args) {  //main method
+        ExerciseTwenty tw = new ExerciseTwenty();  //object created
         tw.cornerShop();
     }
-    public void cornerShop() {
+    public void cornerShop() {  //instance method
         System.out.println("\"+-----------------------+\"");
         System.out.println("\"|                       |\"");
         System.out.println("\"|     CORNER  STORE     |\"");

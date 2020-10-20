@@ -6,12 +6,12 @@ Write a Java program that takes a number as input and prints
 import java.util.Scanner;
 
 public class ExerciseTen {
-    public static void main(String[] args) {
-        ExerciseTen obj = new ExerciseTen();
-        obj.multiplicationTable();
+    public static void main(String[] args) {  //main method
+        ExerciseTen obj = new ExerciseTen();  //object created
+        obj.multiplicationTable();  //method calling
     }
 
-    public void multiplicationTable() {
+     public void multiplicationTable() {  //instance method
         Scanner s = new Scanner(System.in);
         System.out.println("Enter a number for multiplication table: ");
         int a = s.nextInt();

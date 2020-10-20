@@ -7,13 +7,13 @@ public class ExerciseSeventeen {
        Input Data: Input a Decimal Number : 5
        Expected Output Binary number is: 101   */
 
-    public static void main(String[] args) {
-        decimalToBinary();
+    public static void main(String[] args) {  //main method
+        decimalToBinary();  //static methos direct called to static area
     }
-    public static void decimalToBinary(){
+    public static void decimalToBinary(){  //static ,method
     int quot, i = 1, j;
         int bin_num[] = new int[20];
-        Scanner s = new Scanner(System.in);
+        Scanner s = new Scanner(System.in);  //Scanner import
         System.out.println("Input a decimal number : ");
         int dec_num = s.nextInt();
         quot = dec_num;

@@ -5,8 +5,8 @@ package homeworkweeksix;
 import java.util.Scanner;
 
 public class ExerciseThirteen {
-    public static void main(String[] args) {
-        Scanner s=new Scanner(System.in);
+    public static void main(String[] args) {  //main method
+        Scanner s=new Scanner(System.in);  // using scanner to take input from user
         System.out.println("Enter first number:");
         int a =s.nextInt();
         System.out.println("Enter second number:");
