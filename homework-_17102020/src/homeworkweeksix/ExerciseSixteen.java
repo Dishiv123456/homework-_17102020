@@ -9,11 +9,7 @@ public class ExerciseSixteen {
        Input second binary number: 11   */
 
     public static void main(String[] args) {  //main method
-        ExerciseSixteen obj = new ExerciseSixteen(); ///object created to call instance method
-        obj.additionOFTwoBinary();
-    }
 
-    public void additionOFTwoBinary() {  // instance method
         int i = 0, remainder = 0;
         int[] sum = new int[20];
         Scanner in = new Scanner(System.in); //Using scanner to take input from user
