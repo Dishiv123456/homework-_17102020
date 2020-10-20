@@ -12,7 +12,7 @@ public class ExerciseThree {
 
     public static void main(String[] args) {   //main method
         ExerciseThree obj = new ExerciseThree();   // object created to call instance method
-        obj.myInstanceMethod();
+        obj.myInstanceMethod();  //method called by using object
         myStaticMethod();
     }
 

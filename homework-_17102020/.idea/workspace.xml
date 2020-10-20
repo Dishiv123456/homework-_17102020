@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd428b0f-4dfc-435d-addb-5e9816f0e5ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseEight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseEighteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseEleven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseFifteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseFourteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseNine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseNineteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseSeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseSeventeen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseSix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseSixteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseTen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseThirteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseTwelve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseTwenty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworkweeksix/ExerciseTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homeworkweekfive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homeworkweekfive/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learnjava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learnjava/out/production/javalearning/datatype/TestChallange.class" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/out/production/javalearning/datatype/TestChallange.class" afterDir="false" />
-    </list>
+    <list default="true" id="bd428b0f-4dfc-435d-addb-5e9816f0e5ab" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
