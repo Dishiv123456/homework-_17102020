@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testsuite">
+    <test name="Sanity Test">
+        <groups>
+            <run>
+                <include name="smoke"></include>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="com.nopcommerce.demo.testsuite.RegistrationTest"></class>
+            <class name="com.nopcommerce.demo.testsuite.TestSuite"></class>
+            <class name="com.nopcommerce.demo.testsuite.LoginTest"></class>
+
+        </classes>
+    </test>
+</suite>

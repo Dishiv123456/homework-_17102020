@@ -1,0 +1,2 @@
+2020-12-09 10:12:113 INFO  HomePage :36 - Clicking on register Link[[ChromeDriver: chrome on WINDOWS (10d1803b1e15e7dd00149a3437808d84)] -> link text: Register]
+2020-12-09 10:12:168 INFO  RegistrationPage :46 - Landing on registration page[[ChromeDriver: chrome on WINDOWS (10d1803b1e15e7dd00149a3437808d84)] -> xpath: //h1[contains(text(),'Register')]]

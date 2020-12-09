@@ -1,0 +1,5 @@
+2020-12-07 23:12:54 INFO  HomePage :25 - Clicking on Login link : [[ChromeDriver: chrome on WINDOWS (8ddc6091d510feda711133c673c66a53)] -> link text: Log in]
+2020-12-07 23:12:243 INFO  LoginPage :32 - Entering email address : ramkrishna@abc.com to email field : [[ChromeDriver: chrome on WINDOWS (8ddc6091d510feda711133c673c66a53)] -> xpath: //input[@id='Email']]
+2020-12-07 23:12:360 INFO  LoginPage :39 - Entering password : 123456 to password field : [[ChromeDriver: chrome on WINDOWS (8ddc6091d510feda711133c673c66a53)] -> xpath: //input[@id='Password']]
+2020-12-07 23:12:441 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (8ddc6091d510feda711133c673c66a53)] -> xpath: //input[@class='button-1 login-button']]
+2020-12-07 23:12:485 INFO  LoginPage :58 - get error message [[ChromeDriver: chrome on WINDOWS (8ddc6091d510feda711133c673c66a53)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [testsuite]">
+  <test thread-count="5" name="Sanity Test(failed)">
+    <groups>
+      <run>
+        <include name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.demo.nopcommerce.testsuite.TestSuite">
+        <methods>
+          <include name="verifyProductArrangeInAlphabeticalOrder"/>
+          <include name="verifyProductAddedToShoppingCartSuccessFully"/>
+        </methods>
+      </class> <!-- com.demo.nopcommerce.testsuite.TestSuite -->
+      <class name="com.demo.nopcommerce.testsuite.LoginTest">
+        <methods>
+          <include name="verifyUserShouldNavigateToLoginPage"/>
+          <include name="VerifyUserShouldLoginSuccessfullyWithValidCredentials"/>
+          <include name="verifyUserShouldNotLoginSuccessfullyWithInvalidCredentials"/>
+        </methods>
+      </class> <!-- com.demo.nopcommerce.testsuite.LoginTest -->
+      <class name="com.demo.nopcommerce.testsuite.RegistrationTest">
+        <methods>
+          <include name="VerifyUserNavigateToRegisterPageSuccessfully"/>
+          <include name="verifyUserShouldAbleTORegisterSuccessfully"/>
+        </methods>
+      </class> <!-- com.demo.nopcommerce.testsuite.RegistrationTest -->
+    </classes>
+  </test> <!-- Sanity Test(failed) -->
+</suite> <!-- Failed suite [testsuite] -->
